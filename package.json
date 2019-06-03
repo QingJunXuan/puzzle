@@ -1,0 +1,18 @@
+{
+  "name": "puzzle-cylinder",
+  "version": "0.0.1",
+  "description": "Re-creating The 3D Mode from Pokemon Puzzle League in Three JS",
+  "license": "MIT",
+  "repository": "https://github.com/JakeSiegers/PuzzleCylinder",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "anywhere": "^1.5.0"
+  }
+}
